@@ -1750,5 +1750,5 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Boss 1.unity
   - Assets/Scenes/Boss 2.unity
   - Assets/Scenes/Boss 3.unity
-  playerPath: C:/Users/Seizm/dev/Game_Dev/Roguelike_Project/Roguelike_project/Builds/6
-    - Delivery/Finding Geir.exe
+  playerPath: C:/Users/Seizm/dev/ikt202/FindingGeir/FindingGeir/Roguelike_project/Builds/7
+    - Working Game/Finding Geir.exe
